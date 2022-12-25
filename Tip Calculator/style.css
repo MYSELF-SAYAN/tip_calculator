@@ -1,0 +1,21 @@
+section{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+ margin: 100px 565px;
+}
+#bill_amt{
+      padding: 35px 24px;
+}
+#persentage{
+    padding: 35px 21px;
+}
+#NO_OF_PEOPLE{
+    padding: 35px 21px;
+}
+#output{
+    padding: 35px 21px;
+}
+#calculate{
+    padding: 35px 21px;
+}
